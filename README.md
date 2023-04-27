@@ -1,2 +1,2 @@
-# 02-Challenge
+# refactoring
 First challenge of coding bootcamp
