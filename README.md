@@ -3,18 +3,18 @@
 
 ## Description
 
-- My motivation for this project was to test my own skills in coding and seeing how proficient i can make anothers code whilst also point out errors, mistakes and getting rid of wasted space within ones code.
-- The reason i build this project was to see how far my coding skills have come along with the few lectures that we have had
-- The problem i sloved was making the html code more semantic,  whilst also making sure the css elements matched the html elements and trying my best to not change much on the websites integirty
-- i learned a lot about what semantic tags are and new onse like asside and artcle and how and when to use them.  I also learned the difference between putting a space between something in css and putting a comma inbetween it
+- My motivation for this project was to test my own skills in coding and seeing how proficient I can make anothers code whilst also point out errors, mistakes and getting rid of wasted space within ones code.
+- The reason I build this project was to see how far my coding skills have come along with the few lectures that we have had
+- The problem I sloved was making the html code more semantic,  whilst also making sure the css elements matched the html elements and trying my best to not change much on the websites integirty
+- I learned a lot about what semantic tags are and new onse like asside and artcle and how and when to use them.  I also learned the difference between putting a space between something in css and putting a comma inbetween it
 
-Html fixes
+Html Fixes
 - Got rid of all div elements
 - Added section, article, header, footer, img, nav, h1-h3, figure, and aside elements to the file to make it more semantic
 - Deleted some few blocks of code to make look cleaner
 - Added commenting to be able to follow along with the changes
 
-CSS
+CSS Fixes 
 - Condensed a lot of code, getting rid of extra line where they were not needed
 - Changed a majority of the classes to html elements in order to keep the same structure
 - Added a font size to h3 for a cleaner look and to also follow the pattern of h1 being the biggest font size descending to h3 as the smallest
